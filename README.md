@@ -1,6 +1,6 @@
 ### Salut ! 👋
 
-Je suis actuellement un étudiant en Terminale, et j'ai mit ici différents projets auxquels j'ai pu participer et je ne suis pas peu fier !
+Je suis actuellement un étudiant en Terminale, et j'ai mis ici différents projets auxquels j'ai pu participer et je ne suis pas peu fier !
 
 <!--
 **PassWorld44/PassWorld44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
